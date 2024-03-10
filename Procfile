@@ -1,0 +1,1 @@
+web: gunicorn culinary_canvas.wsgi
