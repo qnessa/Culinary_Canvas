@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-1w@#-$!g4(zes^8j3%pkfeo*^==%*j&%zqgrzsz1je&n0h4ahu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-qnessa-culinarycanvas-uo4uctbdonb.ws-eu108.gitpod.io','.herokuapp.com']
+ALLOWED_HOSTS = ['8000-qnessa-culinarycanvas-uo4uctbdonb.ws-eu108.gitpod.io', '.herokuapp.com']
 
 
 # Application definition
